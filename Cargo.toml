@@ -1,0 +1,12 @@
+[package]
+name = "roman_int"
+version = "0.1.0"
+edition = "2021"
+description = "Conversion between integers and roman numeral strings using From and Into."
+license = "MIT"
+repository = "https://github.com/IvoteSligte/roman_int/"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+num-traits = "0.2.15"
